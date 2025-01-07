@@ -32,7 +32,6 @@ I am a **Data Analyst** passionate about turning data into actionable insights. 
 
 📬 **Let’s Connect!**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jemisha-kothari-650202301/)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
 - 📧 Email: jemisha1009@gamil.com
 
 
