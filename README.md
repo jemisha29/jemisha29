@@ -30,7 +30,7 @@ I am a **Data Analyst** passionate about turning data into actionable insights. 
 5. **[SQL-covid-portfolio-project](https://github.com/jemisha29/SQL-covid-portfolio-project)**  
    - Description: COVID-19 data analysis using **SQL**.
 6. **[Call Center Analysis]()**  
-   - Description: Developed a Coffee Shop Sales Dashboard by cleaning data in **Excel**, performing analysis with **SQL**, and visualizing insights in Power BI
+   - Description: Analyzed call center data to optimize performance, improve efficiency, and enhance customer satisfaction through **Power BI** visualizations.
 7. **[SQL-music-data-analysis](https://github.com/jemisha29/SQL-music-data-analysis)**  
    - Description: Music data analysis using **SQL** with queries.
 8. **[Coffee Shop Sales Dashboard](https://github.com/jemisha29/Coffee_Shop_sales)**  
