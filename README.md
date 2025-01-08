@@ -29,7 +29,7 @@ I am a **Data Analyst** passionate about turning data into actionable insights. 
    - Description: I have cleaned and analyzed Amazon sales data in **Excel** and visualized it in Power BI, showcasing all sales trend patterns.
 5. **[SQL-covid-portfolio-project](https://github.com/jemisha29/SQL-covid-portfolio-project)**  
    - Description: COVID-19 data analysis using **SQL**.
-6. **[Call Center Analysis]()**  
+6. **[Call Center Analysis](https://github.com/jemisha29/Call-Center-Performance-Analysis-Dashboard)**  
    - Description: Analyzed call center data to optimize performance, improve efficiency, and enhance customer satisfaction through **Power BI** visualizations.
 7. **[SQL-music-data-analysis](https://github.com/jemisha29/SQL-music-data-analysis)**  
    - Description: Music data analysis using **SQL** with queries.
