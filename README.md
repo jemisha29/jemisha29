@@ -13,11 +13,10 @@ I am a **Data Analyst** passionate about turning data into actionable insights. 
 
 
 ### 🛠️ **Skills & Tools**
-- **Data Analysis**: Proficient in Excel, SQL and Power BI for data analysis and reporting.
-- **Data Visualization**: Experienced in creating dashboards and visual reports using Power BI.
-- **Database Management**: Skilled in SQL, database design, and management.
-- **Programming**: Knowledge of SQL for data manipulation and analysis.
-
+- **Data Analysis**: Excel (Advanced), Power BI, SQL
+- **Programming**: Python (Basics, currently learning fundamentals)
+- **Data Visualization**: Interactive dashboards and charts
+- **Other Skills**: Data cleaning, statistical analysis, and reporting
 
 ### 📌 **Featured Projects**  
 1. **[Customer Segmentation Using RFM Analysis](https://github.com/jemisha29/Customer-Segmentation-Analysis-RFM-)**  
@@ -30,10 +29,13 @@ I am a **Data Analyst** passionate about turning data into actionable insights. 
    - Description: I have cleaned and analyzed Amazon sales data in **Excel** and visualized it in Power BI, showcasing all sales trend patterns.
 5. **[SQL-covid-portfolio-project](https://github.com/jemisha29/SQL-covid-portfolio-project)**  
    - Description: COVID-19 data analysis using **SQL**.
-6. **[SQL-music-data-analysis](https://github.com/jemisha29/SQL-music-data-analysis)**  
-   - Description: Music data analysis using **SQL** with queries.
-7. **[Coffee Shop Sales Dashboard](https://github.com/jemisha29/Coffee_Shop_sales)**  
+6. **[Call Center Analysis]()**  
    - Description: Developed a Coffee Shop Sales Dashboard by cleaning data in **Excel**, performing analysis with **SQL**, and visualizing insights in Power BI
+7. **[SQL-music-data-analysis](https://github.com/jemisha29/SQL-music-data-analysis)**  
+   - Description: Music data analysis using **SQL** with queries.
+8. **[Coffee Shop Sales Dashboard](https://github.com/jemisha29/Coffee_Shop_sales)**  
+   - Description: Developed a Coffee Shop Sales Dashboard by cleaning data in **Excel**, performing analysis with **SQL**, and visualizing insights in Power BI
+   
 
 
 
